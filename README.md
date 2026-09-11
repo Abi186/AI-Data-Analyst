@@ -156,3 +156,17 @@ This opens the app automatically at: **http://localhost:8501**
 - Add PDF export of insights (use the `pdf` skill / `reportlab`)
 - Add anomaly detection (z-score) before sending summary to the LLM
 - Cache repeated questions to avoid re-querying Ollama
+
+- <img width="1796" height="807" alt="AI data analyst 1" src="https://github.com/user-attachments/assets/e607097c-2d75-477f-8e50-e1caf2b0a1da" />
+<img width="1795" height="871" alt="AI data analyst 2" src="https://github.com/user-attachments/assets/7ce211a9-d14b-4119-ad07-4e0083b664e3" />
+<img width="1795" height="875" alt="AI data analyst 3" src="https://github.com/user-attachments/assets/54790a75-6358-45d8-bd31-6805b1252f8f" />
+<img width="1787" height="947" alt="AI data analyst 4" src="https://github.com/user-attachments/assets/d2b71d41-91fe-4402-aaae-d6e808a00e6d" />
+<img width="1780" height="897" alt="AI data analyst 5" src="https://github.com/user-attachments/assets/10c5353b-30ab-43fd-ab50-72b8148930ad" />
+<img width="1787" height="921" alt="AI data analyst 6" src="https://github.com/user-attachments/assets/f644184d-3c37-40b0-9eb5-2b9f1c3cb13c" />
+<img width="1781" height="737" alt="AI data analyst 7" src="https://github.com/user-attachments/assets/c881e78e-2580-4f8f-8d74-4945b5f079b8" />
+
+
+
+
+
+
